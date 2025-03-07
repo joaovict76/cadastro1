@@ -1,0 +1,23 @@
+{
+  "name": "cadastro",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de um cadastro de clientes usando electron e mongoDB Atlas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-Soares9/cadastro.git"
+  },
+  "author": "Jean Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jean-Soares9/cadastro/issues"
+  },
+  "homepage": "https://github.com/Jean-Soares9/cadastro#readme",
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
