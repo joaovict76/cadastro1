@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jean-Soares9/cadastro.git"
+    "url": "git+https://github.com/joaovict76/cadastro1.git"
   },
   "author": "Jean Andrade",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jean-Soares9/cadastro/issues"
+    "url": "https://github.com/joaovict76/cadastro1/issues"
   },
-  "homepage": "https://github.com/Jean-Soares9/cadastro#readme",
+  "homepage": "https://github.com/joaovict76/cadastro1#readme",
   "devDependencies": {
     "electron": "^35.0.0"
   }
